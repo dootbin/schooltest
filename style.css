@@ -9,7 +9,7 @@
     background-size: cover;
     background-position: center center;
     border-radius: 30px;
-    z-index: 3;
+    z-index: auto;
 }
 #adText {
     display: block;
