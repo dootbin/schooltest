@@ -1,4 +1,5 @@
 #ad {
+    all: unset;
     display: block;
     position: absolute;
     overflow: auto;
