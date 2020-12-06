@@ -42,6 +42,9 @@
     font-style: normal;
     font-size: x-large;
 }
+.header2t {
+    font-size: large;
+}
 .capatalizeText {
     text-transform: capitalize;
 }
